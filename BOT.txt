@@ -1,0 +1,3 @@
+"IP: TriDubey.aternos.me:37039
+Port: 37039
+name: Entity SMP"
